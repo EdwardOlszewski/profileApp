@@ -7,4 +7,4 @@
  4) To run the application. 
      - mac/IOS users use: 'react-native run-ios'
      - windows/Android users use: 'react-native run-android'
-     *note: it may help to have your emulator running already.*
+     - *note: it may help to have your emulator running already.*
